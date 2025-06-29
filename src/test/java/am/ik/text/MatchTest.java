@@ -1,4 +1,4 @@
-package am.ik.string;
+package am.ik.text;
 
 import org.junit.jupiter.api.Test;
 

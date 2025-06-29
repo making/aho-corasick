@@ -11,13 +11,13 @@ repository.
 ```
 
 ## Design Requirements
-- **Package**: `am.ik.string` - Main package
+- **Package**: `am.ik.text` - Main package
 
 ## Implemented Features
 
 ### Aho-Corasick Algorithm
-- **Main Class**: `am.ik.string.AhoCorasick` (final class)
-- **Location**: `src/main/java/am/ik/string/AhoCorasick.java`
+- **Main Class**: `am.ik.text.AhoCorasick` (final class)
+- **Location**: `src/main/java/am/ik/text/AhoCorasick.java`
 - **Purpose**: Efficient string matching algorithm for finding multiple patterns in text
 
 #### Key Components:
