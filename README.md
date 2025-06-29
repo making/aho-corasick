@@ -2,6 +2,14 @@
 
 Java implementation of the Aho-Corasick string matching algorithm.
 
+
+<dependency>
+  <groupId>am.ik.text</groupId>
+  <artifactId>aho-corasick</artifactId>
+  <version>0.1.0</version>
+</dependency>
+
+
 ## Usage
 
 ```java
